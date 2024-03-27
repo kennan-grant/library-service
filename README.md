@@ -8,23 +8,11 @@ Library Service is a backend project that focuses on optimizing an existing proj
 2. **Test-Driven Development**: Utilized Mockito for test-driven development of new Spring-based implementations.
 
 ## Status
-The project is currently in active development with regular updates and feature enhancements being rolled out.
+The project is not in active development at this time
 
 ## Tech/Framework Used
-The project is built using [insert tech/framework here].
+The project is built using AWS API Gateway, AWS Lambda, and Java
 
 ## Bugs
-Currently, there are no known bugs. However, if you encounter any issues, please report them in the issue tracker.
-
-## How to Use
-[Provide instructions on how to use the service here]
-
-## Roadmap for Future Development
-The future development of the Library Service includes [insert future plans here]. We are always open to feedback and contributions.
-
-## Contributing
-We welcome contributions from the community. Please read our contributing guidelines before submitting any pull requests.
-
-## License
-[Insert License Information here]
+No known bugs at this time
 
